@@ -1,0 +1,15 @@
+C:\Projetos de Desenvolvimento\Dev\Coins\bin\Debug\net6.0\Coins.exe
+C:\Projetos de Desenvolvimento\Dev\Coins\bin\Debug\net6.0\Coins.deps.json
+C:\Projetos de Desenvolvimento\Dev\Coins\bin\Debug\net6.0\Coins.runtimeconfig.json
+C:\Projetos de Desenvolvimento\Dev\Coins\bin\Debug\net6.0\Coins.dll
+C:\Projetos de Desenvolvimento\Dev\Coins\bin\Debug\net6.0\ref\Coins.dll
+C:\Projetos de Desenvolvimento\Dev\Coins\bin\Debug\net6.0\Coins.pdb
+C:\Projetos de Desenvolvimento\Dev\Coins\obj\Debug\net6.0\Coins.csproj.AssemblyReference.cache
+C:\Projetos de Desenvolvimento\Dev\Coins\obj\Debug\net6.0\Coins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos de Desenvolvimento\Dev\Coins\obj\Debug\net6.0\Coins.AssemblyInfoInputs.cache
+C:\Projetos de Desenvolvimento\Dev\Coins\obj\Debug\net6.0\Coins.AssemblyInfo.cs
+C:\Projetos de Desenvolvimento\Dev\Coins\obj\Debug\net6.0\Coins.csproj.CoreCompileInputs.cache
+C:\Projetos de Desenvolvimento\Dev\Coins\obj\Debug\net6.0\Coins.dll
+C:\Projetos de Desenvolvimento\Dev\Coins\obj\Debug\net6.0\ref\Coins.dll
+C:\Projetos de Desenvolvimento\Dev\Coins\obj\Debug\net6.0\Coins.pdb
+C:\Projetos de Desenvolvimento\Dev\Coins\obj\Debug\net6.0\Coins.genruntimeconfig.cache
